@@ -1,7 +1,7 @@
 {
-  "name": "slack-trans",
+  "name": "your project",
   "version": "0.0.0",
-  "description": "Description for slack-trans",
+  "description": "Description for your project",
   "appPath": "src/main/",
   "private": true,
   "scripts": {
